@@ -19,16 +19,16 @@
 
 **Model Predictive Controller with control contraints only**
 
-![](https://github.com/sidd-1234/iv-2022-safe-control-simulation/droneMPCWithControlConstraintsOnly.gif)
+![](https://github.com/sidd-1234/18-776-model-adaptive-drone-control/blob/main/droneMPCWithControlConstraintsOnly.gif)
 
 **Model Predictive Controller with state and control constraints**
 
-![](https://github.com/sidd-1234/iv-2022-safe-control-simulation/droneMPCWithStateConstraints.gif)
+![](https://github.com/sidd-1234/18-776-model-adaptive-drone-control/blob/main/droneMPCWithStateConstraints.gif)
 
 **Nonlinear Dynamic Inversion Controller**
 
-![](https://github.com/sidd-1234/iv-2022-safe-control-simulation/droneNDI.gif)
+![](https://github.com/sidd-1234/18-776-model-adaptive-drone-control/blob/main/droneNDI.gif)
 
 **Nonlinear Dynamic Inversion Controller with model adaptation using online parameter estimation**
 
-![](https://github.com/sidd-1234/iv-2022-safe-control-simulation/droneAdaptiveNDI.gif)
+![](https://github.com/sidd-1234/18-776-model-adaptive-drone-control/blob/main/droneAdaptiveNDI.gif)
