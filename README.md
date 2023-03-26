@@ -14,3 +14,21 @@
 * droneMPCFeasibility.py - Studies the impact of state contraints on the feasibility of the model predictive controller.
 * droneDynamicInversionControl.py - Implements a nonlinear dynamic inversion controller and an inner PID controller to control the linearized and inverted drone model.
 * dynamicInversionWithParameterIdentification - Implements a nonlinear dynamic inversion controller with online parameter identification of exogenous wind disturbance for added robustness.
+
+## Demonstration
+
+**Model Predictive Controller with control contraints only**
+
+![](https://github.com/sidd-1234/iv-2022-safe-control-simulation/droneMPCWithControlConstraintsOnly.gif)
+
+**Model Predictive Controller with state and control constraints**
+
+![](https://github.com/sidd-1234/iv-2022-safe-control-simulation/droneMPCWithStateConstraints.gif)
+
+**Nonlinear Dynamic Inversion Controller**
+
+![](https://github.com/sidd-1234/iv-2022-safe-control-simulation/droneNDI.gif)
+
+**Nonlinear Dynamic Inversion Controller with model adaptation using online parameter estimation**
+
+![](https://github.com/sidd-1234/iv-2022-safe-control-simulation/droneAdaptiveNDI.gif)
