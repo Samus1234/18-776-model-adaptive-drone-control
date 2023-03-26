@@ -2,7 +2,7 @@
 
 **A Python implementation of a 6-DoF quad-rotor drone simulation and 3 nonlinear model adaptive controllers with Extended and Unscented Kalman Filters for state estimation**
 
-**Please refer to the "Nonlinear_Final_Report.pdf" for details on the model of the drone and extensive performance analysis of each controller.**
+**Please refer to the "Nonlinear_Final_Report.pdf" for more details on the drone modeling and an extensive performance analysis of each controller.**
 
 ## External Dependecies
 * Python with Numpy, Matplotlib, Scipy, and control packages
